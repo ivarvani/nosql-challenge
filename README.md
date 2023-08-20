@@ -18,6 +18,7 @@ The UK Food Standards Agency evaluates various establishments across the United 
 # Part 2: Exploratory Analysis : NoSQL_analysis_starter.ipynb
 Eat Safe, Love has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid.
 1. Created an instance of mongo client.
-2. Performed analysing using queries and created dataframes of the results.
+2. Performed analysis using queries and created dataframes of the results.
 3. Perfomed conversion of Rating value to int and convert string to null and null to null for anlysis purposes.
+4. Perfomed analysis using aggregate and pipeline.
 
