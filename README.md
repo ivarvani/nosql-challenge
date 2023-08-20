@@ -11,6 +11,7 @@ The UK Food Standards Agency evaluates various establishments across the United 
 4. json
 # Part 1: Database and Jupyter Notebook: NoSQL_setup_starter.ipynb
 1. Imported the data provided in the establishments.json file from the Terminal with the database name as "uk_food" and the collection "establishments". 
+>  Import code : mongoimport --type json -d uk_food -c establishments --drop --jsonArray establishments.json
 2. Created and instance of the mongo client.
 3. Updated the database with the new entry.
 4. Updated the datatypes of fields for query purposes.
