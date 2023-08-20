@@ -20,9 +20,4 @@ Eat Safe, Love has specific questions they want you to answer, which will help t
 1. Created an instance of mongo client.
 2. Performed analysing using queries and created dataframes of the results.
 3. Perfomed conversion of Rating value to int and convert string to null and null to null for anlysis purposes.
-Deliverable 2: Scrape and analyse Mars weather data, which exists in a table.
-Used Broswer to automate web browser.
-Used BeautifulSoup to conduct a scrapping for the required table.
-Converted the required table to pandas data frames and conducted analysis.
-Visualised the analysis using plyplot into graphs.
-Stored the data frame as csv file.
+
